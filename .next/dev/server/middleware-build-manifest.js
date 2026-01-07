@@ -1,0 +1,26 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/9842e_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_d4998437._.js",
+    "static/chunks/9842e_next_dist_compiled_react-dom_7a2755db._.js",
+    "static/chunks/9842e_next_dist_compiled_react-server-dom-turbopack_853f3e8c._.js",
+    "static/chunks/9842e_next_dist_compiled_next-devtools_index_5e780085.js",
+    "static/chunks/9842e_next_dist_compiled_6451a0da._.js",
+    "static/chunks/9842e_next_dist_client_bc2b42e9._.js",
+    "static/chunks/9842e_next_dist_3026193a._.js",
+    "static/chunks/9842e_@swc_helpers_cjs_c16795e4._.js",
+    "static/chunks/Desktop_Deepak_nashik-express_frontend_a0ff3932._.js",
+    "static/chunks/turbopack-Desktop_Deepak_nashik-express_frontend_4668fcfc._.js"
+  ]
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];
